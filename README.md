@@ -1,5 +1,4 @@
 
-```markdown
 # .NET 7 Web API Projesi
 
 Bu proje, döviz kuru sorgulama, belge yönetimi, çalışan CRUD işlemleri ve JWT ile kullanıcı kimlik doğrulama gibi çeşitli işlevler sağlayan bir .NET 7 Web API uygulamasıdır.
@@ -135,4 +134,4 @@ Projenin front-end kısmı [burada]([https://github.com/kullanıcı_adı/front_e
 Sorularınız veya geri bildirimleriniz için lütfen [canberk.ok@gmail.com] üzerinden benimle iletişime geçin.
 ```
 
-Bu şekilde, README dosyanızda front-end projesine de bir bağlantı ekleyerek projeyi tamamlayabilirsiniz. Eğer başka bir ekleme yapmak isterseniz veya başka sorularınız varsa, lütfen bana bildirin!
+Bu README dosyası, projenizin işlevlerini, yapılandırma adımlarını ve front-end bağlantısını profesyonel bir şekilde açıklar. Herhangi bir ekleme yapmak isterseniz veya başka sorularınız varsa, lütfen bana bildirin!
