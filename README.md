@@ -127,7 +127,7 @@ Bu rehber, projeyi yerel makinenizde çalıştırmak için ihtiyacınız olan ad
 
 ### Front-end
 
-Projenin front-end kısmı [burada]([https://github.com/kullanıcı_adı/front_end_proje_adı](https://github.com/ahmedcanberkok/react-practice)) bulunabilir.
+Projenin front-end kısmı [burada](https://github.com/ahmedcanberkok/react-practice) bulunabilir.
 
 ### İletişim
 
