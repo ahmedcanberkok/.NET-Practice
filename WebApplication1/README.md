@@ -1,4 +1,3 @@
-﻿İşte Türkçe profesyonel bir README dosyası örneği:
 
 ```markdown
 # .NET 7 Web API Projesi
